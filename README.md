@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/speed-dating-analysis.git```
+```$ git clone git@github.com:thimyxuan/videogames-platform-analysis.git```
 
 ## Dépendances
 
@@ -10,6 +10,7 @@ La plateforme Databricks a permis d'éditer le notebook et d'utiliser PySpark.
 
 ## Stack technique 
 
+- Python
 - PySpark
 - Databricks
 
@@ -37,4 +38,4 @@ PARTIE 2 - Analyses des données
 - Analyse des plateformes
 - Analyse des jeux les plus populaires
 
-CONCLUSION & RECOMMANDATIONS
+Conclusion et recommandations
