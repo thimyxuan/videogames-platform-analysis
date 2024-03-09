@@ -8,7 +8,7 @@ Ce projet utilise la librairie PySpark qui permet de manipuler de larges jeux de
 
 La plateforme Databricks a permis d'éditer le notebook et d'utiliser PySpark.
 
-Afin de voir les visualisations vous pouvez consulter le notebook directement sur Databricks [`https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/694653513776108/2600939179311514/7218803439194559/latest.html`](en suivant ce lien).
+Afin de voir les visualisations vous pouvez consulter le notebook directement sur Databricks [en suivant ce lien](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/694653513776108/2600939179311514/7218803439194559/latest.html).
 
 ## Stack technique 
 
