@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/videogames-platform-analysis.git```
+```$ git clone https://github.com/thimyxuan/videogames-platform-analysis.git```
 
 ## Dépendances
 
